@@ -83,6 +83,9 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
+  font-style: italic;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: red;
 }
 
 .form-group {
